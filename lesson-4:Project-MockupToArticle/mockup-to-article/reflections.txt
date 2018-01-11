@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+I learned about the deprecated state of the <strike> element, which has now been replaced by the <s> or <del> element depending on the use case.
+Most of the course has been relatively easy so far.
+The hardest part to this point was actually setting up the Udacity feedback Chrome extension.
+Making use of the MDN docs have been extremely useful for solving problems and staying up to date with what elements to use (i.e. using the <s> element instead of the <strike> element).
