@@ -1,0 +1,55 @@
+/* add your CSS here */
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Helvetica,sans-serif;
+  font-size: 12px;
+}
+
+.card-container{
+  width:320px;
+  margin:10px;
+  border: 1px solid #ccc;
+  box-shadow: 5px 5px #eee;
+}
+
+h3{
+  font-size: 24px;
+  margin: 20px 10px;
+}
+
+img{
+  width:300px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.facts-container{
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  line-height: 16px;
+}
+
+.fact{
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+span{
+  font-weight: bold;
+}
+
+.summary{
+  margin: 10px 0;
+}
